@@ -17,8 +17,8 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/v0xyszz/key-api.git
+    cd key-api
     ```
 
 2. Instale as dependências:
